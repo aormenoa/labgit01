@@ -1,5 +1,7 @@
 package refactoring.lab.logica;
 
+// hola
+
 public class Fecha {
 	private int dia;
 	private int mes;
